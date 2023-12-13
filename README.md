@@ -1,4 +1,4 @@
-# Task Tracker
+# React Task Tracker
 
 ## Description
 This is a task tracker application built using React, JavaScript, CSS, and HTML. The application allows you to add, delete, and toggle tasks.
